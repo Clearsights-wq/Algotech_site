@@ -1,0 +1,3 @@
+Open cmd in top directory and type :
+python -m http.server 8000
+Then enter on ZoomOnScroll.html
