@@ -1,5 +1,5 @@
 Download the zip archive here:
-https://limewire.com/?referrer=pq7i8xx7p2
+https://drive.google.com/file/d/1RjbpxuWebq6jeIza75_VuPr3U_kPenEj/view?usp=drive_link
 Extract the contents of the archive on some directory.
 Go to root project directory
 Make sure python is installed.
@@ -8,3 +8,4 @@ python -m http.server 8000
 Then type localhost:8000 on some browser.
 Finally enter on ZoomOnScroll.html and start 
 scrolling slowly to show the website.
+
